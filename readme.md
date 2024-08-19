@@ -6,7 +6,7 @@
 ## 安裝
 
 ```shell
-$ pnpm i -D @wymjs/vite-mock-api
+$ pnpm i -D @wymjs/vite-mock-api query-string body
 ```
 
 ## 使用
